@@ -1,4 +1,4 @@
-bash part_2.sh
+bash set_env.sh
 ls /usr/share/zoneinfo
 echo -n "Enter Country: "
 read country
